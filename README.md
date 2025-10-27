@@ -3,6 +3,9 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malakzaidi/ZAIDI-ELHABTI-Tp1-exo2-docker)
 
+<img width="1126" height="561" alt="image" src="https://github.com/user-attachments/assets/46416874-c75c-4935-a48a-a58218644d42" />
+
+
 ## 📋 Table des Matières
 
 - [Description](#description)
@@ -482,3 +485,4 @@ Pour toute question ou problème :
 ---
 
 **Note :** Ce README est un template générique. Veuillez l'adapter selon le contenu spécifique de votre exercice et les technologies utilisées dans votre projet.
+
